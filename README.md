@@ -6,7 +6,6 @@ Aplicación móvil desarrollada en Android Studio como proyecto final de la asig
 - Kotlin
 - Android Studio
 - Jetpack Compose
-- Firebase (opcional)
 - Git y GitHub
 
 ## Objetivo del proyecto
